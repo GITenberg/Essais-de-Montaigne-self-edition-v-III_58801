@@ -1,0 +1,40 @@
+_repo: Essais-de-Montaigne-self-edition-v-III_58801
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Michaud, J. Fr. (Joseph Fr.)
+    aliases:
+    - Albens
+    - Michaud, Joseph Francois
+    - Michaud, Joseph François
+    birthdate: 1767
+    deathdate: 1839
+    gutenberg_agent_id: '45143'
+    url: http://www.gutenberg.org/2009/agents/45143
+creator:
+  author:
+    agent_name: Montaigne, Michel de
+    aliases:
+    - Montagne, Michel de
+    - Montaigne, Michel Eyquem de
+    birthdate: 1533
+    deathdate: 1592
+    gutenberg_agent_id: '1230'
+    url: http://www.gutenberg.org/2009/agents/1230
+    wikipedia: http://en.wikipedia.org/wiki/Michel_de_Montaigne
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Philosophie, Religion et Morale
+gutenberg_issued: '2019-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58801'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Essais de Montaigne (self-édition); v. III
+url: http://www.gutenberg.org/ebooks/58801
